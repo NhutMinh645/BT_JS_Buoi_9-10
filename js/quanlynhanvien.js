@@ -211,7 +211,10 @@ document.getElementById("btnThem").onclick = ()=>{
 
     document.getElementById("btnThemNV").style.display = "inline-block";
 
+    document.getElementById("header-title").innerHTML = "Log In"
+
     document.getElementById("btnCapNhat").style.display = "none";
+
 
 }
 
